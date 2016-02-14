@@ -11,7 +11,7 @@ void setup() {
 // program is stopped or noLoop() is called. draw() is called automatically after setup()
 void draw() {
   
-  // Defines the background color to black
+  // Defines the background color to white
   // Since it is being defined inside the draw() method, it must be the first statement
   // Otherwise anything drawn using a statement above this one would be overlapped
   background( 255 );
